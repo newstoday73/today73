@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 honolulu-application-deluxe-project.trycloudflare.com
+=======
+modification-honor-technical-elect.trycloudflare.com
+>>>>>>> Stashed changes
